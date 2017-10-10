@@ -1,0 +1,19 @@
+14
+b'arnold schwarzenegger |publis'
+b'arnold schwarzenegger is'
+b'arnold-schwarzenegger-file-revis'
+b'arnold schwarzenegger is'
+b'arnold-schwarzenegger-is'
+b'arnold-schwarzeneggers-genis'
+b'arnold schwarzenegger |publis'
+b'arnold schwarzenegger.  this'
+b'arnold schwarzenegger]], he is'
+b'arnold schwarzenegger]] is'
+b'arnold schwarzenegger|publis'
+b'arnold schwarzenegger|publis'
+b'arnold-schwarzenegger-is'
+b'arnold schwarzenegger]] in his'
+
+real    2m6.034s
+user    0m0.000s
+sys     0m0.061s

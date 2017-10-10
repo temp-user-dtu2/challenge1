@@ -1,0 +1,1231 @@
+833
+b'apache software'
+b'apache software foundation | logo   = [[file:apache_software'
+
+b"apache.org}} | dissolved         =  | footnotes         =  }}
+ the \\'\\'\\'apache software"
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache software foundation is a decentralized open source com
+munity of developers. the software'
+b'apache software'
+b'apache license]] and is [[free and open-source software'
+b'apache projects and related technology.  ==history== the hist
+ory of the apache software'
+b'apache group. on march 25, 1999, the apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache group".<ref name=":0" />  ==projects== {{see also|list
+ of apache software'
+b'apache divides its [[software'
+b'apache software'
+b'apache.org/foundation/bylaws.html | publisher = apache softwa
+re'
+b'apache.org/licenses/#clas | publisher = apache software'
+b'apache+software+foundation%22+board+of+directors#v=onepage&q=
+%22apache%20software'
+b'apache+software'
+b'apache software'
+b'apache software'
+b'apache.org/foundation/records/990-2010.pdf|date=2011-09-14|ti
+tle=apache software'
+b'apache software'
+b'apache}} {{foss}}  {{authority control}}  [[category:1999 est
+ablishments in maryland]] [[category:apache software'
+b'apache software license]], an open-source license for softwar
+e'
+b'apache software'
+b'apache software'
+b'apache.org/about_apache.html|title=about the apache http serv
+er project|publisher=[[apache software'
+b'apache.org/docs/2.4/install.html|website=httpd.apache.org|pub
+lisher=the apache software'
+b'apache http server|agency=ohloh|publisher= black duck softwar
+e'
+b'apache is developed and maintained by an open community of de
+velopers under the auspices of the [[apache software'
+b'apache remained the most widely used web server software'
+b'apache 2.2 series was considered significantly slower than [[
+nginx]] and [[varnish (software'
+b'apache http server [[codebase]] was [[software'
+b'apache.org/licenses/license-2.0.html|title=apache license, ve
+rsion 2.0|publisher=the apache software'
+b'apache http server 1.3.31 and 2.0.49 were the first [[softwar
+e'
+b'apache http server project is a collaborative software'
+b'apache software'
+b'apachebench]] * [[comparison of web server software]] * [[ibm
+ http server]] * [[lamp (software'
+b'apachebench]] * [[comparison of web server software'
+b'apache}} {{web server software'
+b'apache}} {{web server software}} {{web interfaces}}  {{author
+ity control}}  [[category:1995 software'
+b'apache software foundation|http server]] [[category:apache so
+ftware'
+b'apache software'
+b'apache license]] [[category:unix network-related software'
+b'apache license]] [[category:unix network-related software]] [
+[category:web server software'
+b'apache software'
+b'apache axis]], an open source web service framework from the
+apache software'
+b'apache, mysql and php", software'
+b'apache attic]], a repository for apache software'
+b'apache attic]], a repository for apache software foundation s
+oftware'
+b"apache modules|apache module]] called \\'\\'mod virgule\\'\\'
+.  \\'\\'mod_virgule\\'\\' is free software"
+b'apache software'
+b"apache subversion\\'\\'\\' (often abbreviated \\'\\'\\'svn\\'
+\\'\\', after its command name \\'\\'svn\\'\\') is a [[software
+"
+b'apache software'
+b'apache license]] since the 1.7 release; prior versions use a
+derivative of the apache software'
+b'apache incubator]], aiming to become part of the [[apache sof
+tware'
+b'apache}}  {{defaultsort:apache subversion}} [[category:apache
+ software'
+b'apache license | image           = [[image:apache_software'
+b'apache software foundation logo | author          = [[apache
+software'
+b'apache software'
+b'apache software'
+b'apache_software_license_.28asl.29  |title=the apache software
+'
+b'apache_software'
+b'apache license, version 2.0  |work=various licenses and comme
+nts about them  |publisher=[[free software'
+b"apache license, version 2.0\\'\\'\\' (\\'\\'\\'alv2\\'\\'\\')
+ is a [[permissive free software"
+b'apache software'
+b'apache license requires preservation of the [[copyright]] not
+ice and [[disclaimer]]. like other [[free software'
+b'apache license and many non-asf projects are also using the a
+lv2.  a free software'
+b"apache licenses\\'>{{cite web|url=http://www.apache.org/licen
+ses/ |title=licenses \\xe2\\x80\\x93 the apache software"
+b"apache licenses\\'/>  ==licensing conditions== the apache lic
+ense is [[permissive free software"
+b'apache software foundation and the [[free software'
+b'apache software'
+b'apache license 2.0 is a [[free software'
+b'apache2|title=various licenses and comments about them|date=1
+4 january 2008|publisher=free software'
+b'apache license 2.0 can be combined, as long as the resulting
+software'
+b'apache.org/licenses/gpl-compatibility.html|title=apache licen
+se v2.0 and gpl compatibility|author=apache software'
+b'apache.org/licenses/gpl-compatibility.html| archivedate= 15 j
+anuary 2008 | deadurl= no}}</ref>  the free software'
+b'apache license|software'
+b'apache-2.0%29 quick summary of the apache license 2.0]  {{apa
+che}} {{foss}}  [[category:apache software'
+b'apache geronimo|geronimo]] from [[apache software'
+b'apache]], [[apache tomee|tomee]] from [[apache software'
+b'apache software'
+b"apache.org }} \\'\\'\\'apache poi\\'\\'\\', a project run by
+the [[apache software"
+b'apache}}  {{defaultsort:apache poi}} [[category:apache softwa
+re'
+b'apache tomcat default page | developer              = [[apach
+e software'
+b'apache software'
+b'apache software'
+b'apache software foundation, released under the [[apache licen
+se]] 2.0 license, and is [[open-source software'
+b'apache.org/download-80.cgi  the apache software'
+b'apache software foundation. the [[apache ant]] software'
+b'apache software'
+b'apache software'
+b'apache-software'
+b'apache-tomee-certified-as-java-ee-6-web-profile-compatible-20
+11-10-04|title=the apache software'
+b'apache-tomcat-tutorial/ tutorial - configuring & using tomcat
+ 6 and tomcat 7]  {{apache}} {{web server software'
+b'apache software foundation|tomcat]] [[category:java enterpris
+e platform]] [[category:free software'
+b'apache software'
+b'apache license]] [[category:web server software'
+b'apache software'
+b'apache license|apache]] licenses{{snd}} licenses allowing the
+ software'
+b'apache license|apache]] licenses{{snd}} licenses allowing the
+ software to be made [[proprietary software'
+b'apache software license]].  ==see also== {{portal|free softwa
+re'
+b'apache software license]].  ==see also== {{portal|free softwa
+re}} *[[license proliferation]] *[[open software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache.org/#22-january-2015-nutch-23-release |title=nutch 2.3
+ release |publisher=the apache software'
+b'apache software'
+b'apache software'
+b'apache}} {{web crawlers}}  [[category:internet search engines
+]] [[category:free search engine software'
+b'apache license]], such as the [[bonjour (software'
+b'apache software'
+b"apache license]] 2.0 }}  \\'\\'\\'apache ant\\'\\'\\' is a so
+ftware"
+b"apache license]] 2.0 }}  \\'\\'\\'apache ant\\'\\'\\' is a so
+ftware tool for [[build automation|automating software"
+b'apache tomcat]] project in early 2000. it was a replacement f
+or the unix [[make (software'
+b'apache software foundation]] project. it is [[open-source sof
+tware'
+b'apache software'
+b'apache tomcat]], for release as [[open source]]. a [[propriet
+ary software'
+b'apache ant}} *{{official website}}   {{apache}}  {{authority
+control}} [[category:apache software'
+b'apache license]] [[category:xml software'
+b'apache struts 1|apache struts 2}} {{more footnotes|date=april
+ 2009}} {{infobox software'
+b'apache struts logo]] | author                 = [[craig mccla
+nahan]] | developer              = [[apache software'
+b'apache}}  [[category:apache software foundation|struts]] [[ca
+tegory:cross-platform free software'
+b'apache}}  [[category:apache software'
+b'apache avalon]], a computer software'
+b'apache flex]]) and open source virtual machine ([[tamarin (so
+ftware'
+b'apache software'
+b"apache.org}} }}  \\'\\'\\'apache lucene\\'\\'\\' is a [[free
+and open-source software"
+b'apache software foundation]] and is released under the [[apac
+he software'
+b'apache software'
+b'apache software'
+b'apache.lucene apache lucene api tracker]  {{apache}}  {{autho
+rity control}}  [[category:apache software'
+b'apache license]] [[category:search engine software'
+b'apache ant]], a java-based software'
+b'apache http server|apache]] hosting using the mod_mono module
+, [[fastcgi]] hosting, and [[xsp (software'
+b'apache maven|maven]]  {{defaultsort:antlr}} [[category:1992 s
+oftware'
+b'apache-lenya-menubar.png|250px]] --> | caption
+ =  | developer              = [[apache software'
+b'apache software'
+b'apache.org/projects/lenya.html</ref>  ==see also== {{portal|f
+ree software'
+b'apache lenya wiki]  {{apache}}  [[category:free content manag
+ement systems]] [[category:apache software'
+b'apache software'
+b'apache lenya]] and [[daisy (software'
+b'apache.org/2.1/ cocoon 2.1 documentation] * [//www.apache.org
+/ the apache software'
+b'apache}}  {{defaultsort:apache cocoon}} [[category:apache sof
+tware'
+b'apache software'
+b"apache xml''' project is part of the [[apache software"
+b'apache}}  {{defaultsort:apache xml}} [[category:xml software]
+] [[category:apache software'
+b'apache}}  {{defaultsort:apache xml}} [[category:xml software'
+
+b'apache software'
+b'apache software'
+b"apache flex\\'\\'\\', formerly \\'\\'\\'adobe flex\\'\\'\\',
+is a [[software"
+b'apache software'
+b'apache software'
+b'apache flex became a top level project of the apache software
+'
+b'apache}} {{eclipse plugins}} {{rich internet applications}} {
+{widget toolkits}}  [[category:macromedia software'
+b'apache software'
+b"apache.org/}} }} '''apache avalon''' is a computer software"
+b'apache}}  [[category:servers (computing)]] [[category:java pl
+atform]]   {{network-software'
+b'apache software'
+b'apache software'
+b'apache ant|ant]] and [[make (software'
+b'apache turbine]] in 2002.  in 2003, it was voted on and accep
+ted as a top level [[apache software'
+b'apache maven}} [[category:compiling tools]] [[category:java d
+evelopment tools]] [[category:apache software'
+b'apache software'
+b'apache-foundation">{{cite web | year = 2008 | title = andi gu
+tmans apache software'
+b'apache jmeter screenshot | developer              = [[apache
+software'
+b"apache.org/}} }} \\'\\'\\'apache jmeter\\'\\'\\' is an [[apac
+he software"
+b'apache}}  [[category:apache software'
+b'apache software foundation]] | status                 = activ
+e | latest release version = {{latest stable software'
+b'apache software'
+b"apache geronimo\\'\\'\\' is an [[open source]] [[application
+server]] developed by the [[apache software"
+b'apache}}  [[category:apache software'
+b"apache incubator''' is the gateway for [[open-source]] projec
+ts intended to become fully fledged [[apache software"
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache}}  <!--interwikies-->  [[category:apache software'
+b'apache flex]]: a free [[software'
+b'apache flex|adobe flex framework]] was donated as open-source
+ to the [[apache software'
+b'apache hive}} {{infobox software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache}}  {{defaultsort:apache beehive}} [[category:apache so
+ftware'
+b'apache software'
+b'apache http server]], but the [[apache software'
+b'apache.org/}}  {{apache}}  [[category:apache software'
+b'apache software'
+b"apache.org/ }} '''apache hivemind''' is an [[inversion of con
+trol]] (ioc) software"
+b'apache software'
+b'apache}}  [[category:java platform]] [[category:apache softwa
+re'
+b'apache software'
+b'apache software'
+b'apache axis2]]  ==external links== * [//axis.apache.org/ apac
+he axis homepage] at the apache software'
+b'apache.org/axis/cpp/ apache axis c++ homepage] at the apache
+software'
+b'apache.org/axis/cpp/arch/end-2-end-sample.html axis-c++ tutor
+ial] at the apache software'
+b'apache.org/axis2/ apache axis2/java] at the apache software'
+b'apache.org/axis2/c/ apache axis2/c] at the apache software'
+b'apache axis], see also stylus studio  {{apache}}  [[category:
+apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache.org}}</ref> what makes the license unacceptable for [[
+apache software'
+b'apache software'
+b'apache harmony, which is not gpl-licensed. on december 9, 201
+0, the apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache.org}}</ref> {{as of|2007|7}}, supported applications i
+nclude:  * [[eclipse (software'
+b'apache}}  [[category:apache software'
+b'apache ant *[[project aardvark]], the early code name of fog
+creek copilot remote access software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache}}  {{authority control}} [[category:apache software'
+b'apache software'
+b"apache axkit''' was an [[xml]] apache publishing framework ru
+n by the [[apache software"
+b'apache}}  [[category:free software programmed in perl]] [[cat
+egory:xml software]] [[category:perl software'
+b'apache}}  [[category:free software'
+b'apache}}  [[category:free software programmed in perl]] [[cat
+egory:xml software'
+b'apache software'
+b'apache software'
+b'apache}}  {{authority control}} [[category:apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache derby.  ==see also== {{portal|free software'
+b'apache}}  [[category:apache software'
+b'apache software'
+b'apache incubator]] on march 15, 2006, and is now a top level
+project of the [[apache software'
+b'apache}}  [[category:apache software'
+b'apache]] and [[mozilla foundation]] with own points of views
+on licenses.  ===public-domain software'
+b'apache software foundation]], a director of the [[open source
+ initiative]]. |ref=apache software'
+b'apache software'
+b'apache software'
+b'apache software foundation">{{cite web|title=apache software'
+
+b'apache source distribution, and like the apache web server it
+self, is free, [[open source]] software'
+b'apache.org apache httpd official website]  [[category:apache
+software'
+b'apache software'
+b"apache.org/}} }} \\'\\'\\'apache directory\\'\\'\\' is an [[o
+pen source]] project of the [[apache software"
+b'apache software'
+b'apache.org/api/ apache directory ldap api]  {{apache}}  [[cat
+egory:apache software'
+b'apache strike coverart.png |developer = william c. appleton (
+mac) |publisher = [[silicon beach software'
+b"apache commons\\'\\'\\' is a project of the [[apache software
+"
+b'apache}}  <!--categories--> [[category:java (programming lang
+uage) libraries]] [[category:apache software'
+b'apache software'
+b'apache software'
+b'apache forrest is fairly new".  ==see also== * [[apache softw
+are'
+b'apache.org/ apache forrest website] {{apache}}  {{authority c
+ontrol}} [[category:apache software'
+b'apache hadoop]] software'
+b'apache, inetco and iit software demonstrated software'
+b'apache, inetco and iit software'
+b'apache qpid]], an [[open-source software'
+b'apache foundation]] * [[apache activemq]], an [[open-source s
+oftware'
+b'apache foundation]]  === pre-1.0 amqp broker implementations
+=== * [[joram]], a java [[open-source software'
+b'apache software'
+b'apache.org |publisher=apache software'
+b"apache hadoop\\'\\'\\' ({{ipac-en|pron|h|\\xc9\\x99|\\xcb\\x8
+8|d|u:|p}}) is an [[open source|open-source]] [[software"
+b'apache.org |publisher=apache software'
+b'apache spark top level apache project||<ref> {{cite web | tit
+le = the apache software'
+b'apache\\xe2\\x84\\xa2 spark\\xe2\\x84\\xa2 as a top-level pro
+ject : the apache software'
+b'apache.org/foundation/entry/the_apache_software'
+b'apache.org/jira/browse/hadoop-3412 |work=hadoop common |publi
+sher=apache software'
+b'apache software foundation has stated that only software'
+b'apache software'
+b'apache.org |publisher=apache software'
+b'apache}} {{file systems}} {{authority control}}  {{defaultsor
+t:hadoop}} [[category:apache software'
+b'apache axis2]], software'
+b'apache software'
+b'apache aries]], a set of software'
+b'apache software'
+b"apache myfaces\\'\\'\\' is an [[apache software"
+b'apache myfaces core 2.2 description|accessdate=2016-01-29}}</
+ref>  ==see also== {{portal|free software'
+b'apache}}  {{defaultsort:apache myfaces}} [[category:javaserve
+r faces]] [[category:apache software'
+b'apache.png|190px]] | collapsible            = yes | developer
+              = [[apache software'
+b'apache software'
+b'apache.org official apache ofbiz website]  {{apache}}  [[cate
+gory:apache software'
+b'apache software'
+b'apache software'
+b'apache karaf]].  additional installation features include: *
+bpm engine via [[activiti (software'
+b'apache felix<ref>{http://felix.apache.org/ announcement} by [
+[brian taylor (software'
+b'apache}}  {{defaultsort:apache servicemix}} [[category:apache
+ software'
+b'apache license]] (version 2 - november 29, 2006), and saw its
+ first public [[software'
+b'apache software'
+b"apache.org/}} }}'''apache taverna''' is an [[open source soft
+ware"
+b'apache incubator]]. taverna allows users to integrate many di
+fferent software'
+b'apache software'
+b'apache.org/projects/taverna.html|website=apache incubator|pub
+lisher=apache software'
+b'apache.org/download/|title=download apache taverna|publisher=
+apache software'
+b'apache)  == references == {{reflist}}  [[category:workflow te
+chnology]] [[category:bioinformatics software'
+b'apache software foundation|taverna]] [[category:apache softwa
+re foundation projects|taverna]] [[category:software'
+b'apache software foundation|taverna]] [[category:apache softwa
+re'
+b'apache software'
+b'apache software'
+b"apache.org/ }} \\'\\'\\'apache tuscany\\'\\'\\' was an [[open
+-source software"
+b'apache software'
+b'apache}}  [[category:apache software'
+b'apache shale | logo =  | screenshot = | caption = | developer
+ = [[apache software'
+b"apache.org/}} }} '''shale''' is a [[web application framework
+]] maintained by the [[apache software"
+b'apache shale web framework project retired]  {{application fr
+ameworks}} {{apache}}  {{web-software'
+b'apache software'
+b'apache software'
+b"apache.org/xap }} \\'\\'\\'xap\\'\\'\\' (\\'\\'\\'extensible
+ajax platform\\'\\'\\') is a software"
+b'apache software'
+b'apache.org/xap/ apache incubator - xap]  {{apache}}  [[catego
+ry:ajax (programming)]] [[category:beta software'
+b'apache software'
+b'apache.org/}}  {{apache}}  [[category:continuous integration]
+] [[category:apache software'
+b'apache software'
+b'apache.org/axis/ apache axis homepage] at the apache software
+'
+b'apache.org/axis2/java/core/ apache axis2/java] at the apache
+software'
+b'apache.org/axis2/c/core/ apache axis2/c] at the apache softwa
+re'
+b'apache}}  [[category:apache software'
+b'apache software'
+b"apache.org}} }} '''openjpa''' is an [[open source software"
+b'apache software'
+b'apache software'
+b'apache}} {{network-software'
+b'apache software foundation|continuum]] [[category:software'
+b'apache software'
+b'apache felix shell gui | collapsible            = yes | devel
+oper              = [[apache software'
+b'apache software'
+b'apache ace]], a software'
+b'apache}}  [[category:free software'
+b'apache thrift | logo = | screenshot = | caption = | collapsib
+le = | developer = [[apache software'
+b'apache software'
+b'apache software'
+b'apache [[lucene]] and apache solr are both produced by the sa
+me [[apache software'
+b'apache software'
+b'apache solr, part 1] * [http://public.dhe.ibm.com/software'
+b'apache-solr getting started with enterprise search using apac
+he solr] {{apache}}  [[category:apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache.org/ivy/}} * [http://www.jaya.free.fr/ archival jayaso
+ft website] * [http://public.dhe.ibm.com/software'
+b'apache}}  [[category:java development tools]] [[category:apac
+he software'
+b'apache software'
+b'apache cxf]] in [[service-oriented architecture]] projects.
+==tooling== graphical, [[eclipse (software'
+b'apache servicemix]] * [[fuse esb]] (enterprise servicemix) *
+[[guaran\\xc3\\xa1 dsl]] * [[mule (software'
+b'apache-camel.php/ apache camel examples] {{apache}}   [[categ
+ory:apache software'
+b'apache software'
+b'apache software'
+b'apache.org/rampart/ apache rampart] at the apache software'
+b'apache.org/rampart/c/ apache rampart c-language implementatio
+n] at the apache software'
+b'apache.org/axis2/ apache axis2] at the apache software'
+b'apache software foundation|rampart module]] [[category:web se
+rvices]]  {{web-software'
+b'apache software'
+b'apache [[subversion (software'
+b'apache software'
+b'apache software'
+b'apache software'
+b"apache.org}} }}  \\'\\'\\'apache cxf\\'\\'\\' is an [[open so
+urce software"
+b'apache software'
+b'apache cxf committers]  {{apache}} {{java api for restful web
+ services}}  [[category:apache software'
+b'apache software'
+b"apache software foundation and it has been moved to [[apache
+attic]]'''''  ==see also== * [[apache software"
+b'apache software'
+b'apache avalon and excalibur] {{apache}}  [[category:apache so
+ftware'
+b'apache software'
+b'apache-software'
+b'apache software'
+b'apache incubator wiki, retrieved december 4, 2007</ref> and d
+onated to the [[apache software'
+b'apache.org/}} *[http://qnalist.com/g/abdera abdera mailing li
+st archives]  {{apache}}  [[category:apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache software foundation]]. after more than five years with
+out a release, the board of the apache software'
+b'apache}}  [[category:c++ libraries]] [[category:software usin
+g the apache license]]  {{programming-software'
+b'apache}}  [[category:c++ libraries]] [[category:software'
+b'apache software'
+b'apache software'
+b'apache}}  <!--interwikies-->  <!--categories--> [[category:ap
+ache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache}} {{email servers}}  [[category:apache software'
+b'apache}} {{email servers}}  [[category:apache software founda
+tion|james]] [[category:free email server software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache license]] 2.0 | website                = http://synaps
+e.apache.org }} [[apache software'
+b'apache software'
+b'apache software'
+b'apache.org/synapse_samples.html samples guide]  {{apache}}  [
+[category:apache software'
+b'apache software'
+b"apache cassandra\\'\\'\\'  is a [[free and open-source softwa
+re"
+b'apache hadoop]] [[mapreduce]]<ref>{{cite web|url=https://blog
+s.apache.org/foundation/entry/the_apache_software'
+b'apache software foundation announces apache cassandra release
+ 0.6  : the apache software'
+b'apache software'
+b'apache.org/foundation/entry/the_apache_software_foundation_an
+nounces9|title=the apache software'
+b'apache.org/foundation/entry/the_apache_software'
+b'apache cassandra 0.7 : the apache software'
+b'apache.org/foundation/entry/the_apache_software_foundation_an
+nounces26|title=the apache software'
+b'apache.org/foundation/entry/the_apache_software'
+b'apache cassandra\\xe2\\x84\\xa2 v1.1 : the apache software'
+b'apache.org/foundation/entry/the_apache_software_foundation_an
+nounces38|title=the apache software'
+b'apache.org/foundation/entry/the_apache_software'
+b'apache cassandra\\xe2\\x84\\xa2 v1.2 : the apache software'
+b'apache.org/ |title=the apache cassandra project |accessdate=2
+014-06-17 |publisher=[[apache software'
+b'apache software'
+b'apache.org/cassandra/ |title=project wiki|accessdate=2014-06-
+17 |publisher=[[apache software'
+b'apache software'
+b'apache}} {{facebook navbox}}  {{defaultsort:cassandra (databa
+se)}} [[category:2008 software'
+b'apache software foundation projects]] [[category:apache softw
+are'
+b'apache software'
+b'apache software'
+b"apache.org}} }}  \\'\\'\\'apache mahout\\'\\'\\' is a project
+ of the [[apache software"
+b'apache.org/users/basics/algorithms.html |title=algorithms - a
+pache mahout - apache software'
+b'apache spark]] and [[h2o_(software'
+b'apache}}  [[category:apache software'
+b'apache hadoop]], marketed for the [[internet of things]].<ref
+>{{cite web|title = breakthrough teradata software'
+b'apache openoffice]].  there are also many examples in the vid
+eo game domain: [[revolution software'
+b'apache software'
+b'apache software'
+b'apache sling cheat sheet]  {{apache}}  [[category:apache soft
+ware'
+b'apache license|apache 2.0]] ([[open-source software'
+b'apache license]], making it applicable for the [[software'
+b'apache license]], making it applicable for the [[software dev
+elopment|development]] of both [[open-source software'
+b'apache software'
+b'apache license]] and runs on any [[jdk]] installation (1.5 or
+ later).  click graduated into an [[apache software'
+b'apache software'
+b"apache.org/torque/ }} \\'\\'\\'apache torque\\'\\'\\' is a su
+b project of the [[apache software"
+b'apache software'
+b'apache.org/jelly/overview.html</ref>  ==use by clarity softwa
+re== clarity ppm software'
+b'apache.org/jelly/overview.html</ref>  ==use by clarity softwa
+re'
+b'apache.org/ apache commons homepage] {{apache}}  [[category:j
+ava platform]] [[category:apache software'
+b'apache muse | developer              = [[apache software'
+b'apache software'
+b'apache software'
+b"apache.org/}} }}  '''buildr''' is an [[open-source software"
+b'apache}}  [[category:build automation]] [[category:software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache tapestry based on apache shiro]  {{apache}}  [[categor
+y:free security software'
+b'apache flex|flex based]] online software'
+b'apache software'
+b"apache.org/repos/asf/incubator-wave.git}} }} \\'\\'\\'apache
+wave\\'\\'\\' is a software"
+b'apache software'
+b'apache wave=== google wave was accepted by the [[apache softw
+are'
+b'apache.org/wave/demo-servers.html|publisher=apache software'
+b'apache license]] [[category:social networking services]] [[ca
+tegory:apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache empire-db is open source and provided under the apache
+ 2.0 license from the [[apache software'
+b'apache software'
+b'apache incubator project. in july 2008 empire-db got accepted
+ for incubation and all rights over the software'
+b'apache.org/}} {{apache}}  [[category:apache software'
+b'apache cordova enables [[computer software|software'
+b'apache cordova enables [[computer software|software]] [[progr
+ammer]]s to build [[application software'
+b'apache cordova enables [[computer software'
+b'apache software'
+b'apache}}  [[category:android (operating system) development s
+oftware]] [[category:blackberry development software'
+b'apache}}  [[category:android (operating system) development s
+oftware'
+b'apache license]] [[category:oracle database tools]] [[categor
+y:microsoft database software'
+b'apache software'
+b'apache wink and the rest]  {{java api for restful web service
+s}} {{apache}}  [[category:apache software'
+b'apache zookeeper]] * memcache api: [[memcached]] * task queue
+ api: [[rabbitmq]] and [[celery (software'
+b'apache software'
+b'apache license]] 2.0 | website                = http://pivot.
+apache.org/ }} {{portal|free software'
+b"apache pivot\\'\\'\\' is an [[open-source software"
+b'apache license]] version 2.0.  ==architecture== its [[class (
+software'
+b'apache-software-foundation-announces-apache-pivot-as-top-leve
+l-project-82049997.html the apache software'
+b'apache-software'
+b'apache}} {{rich internet applications}}  [[category:rich inte
+rnet applications]] [[category:xml software'
+b'apache license|apache public license v2]], [[proprietary soft
+ware'
+b'apache license|apache-licensed]] [[software'
+b'apache software'
+b"apache.org}} }}  \\'\\'\\'apache zookeeper\\'\\'\\' is a soft
+ware"
+b"apache.org}} }}  \\'\\'\\'apache zookeeper\\'\\'\\' is a soft
+ware project of the [[apache software"
+b'apache.org/confluence/display/zookeeper/|title=index - apache
+ zookeeper - apache software'
+b'apache.org|access-date=2016-08-26}}</ref> zookeeper was a sub
+-project of [[hadoop]] but is now a [[apache software'
+b'apache/about_servicecoordination_and_zookeeper_and_apache_and
+_yahoo/33011 software'
+b'apache zookeeper]  {{apache}}  {{defaultsort:apache zookeeper
+}} [[category:apache software'
+b'apache license]].  ==about== autodock is one of the most cite
+d [[docking (molecular)|docking]] software'
+b'apache software'
+b'apache avro - apache software'
+b'apache software'
+b'apache}}  [[category:free software programmed in java (progra
+mming language)]] [[category:apache software'
+b'apache}}  [[category:free software'
+b'apache software'
+b'apache software'
+b'apache hama website] *[http://blogs.apache.org/hama apache ha
+ma blog] {{apache}}  [[category:free software'
+b"apache.org}} }}  \\'\\'\\'apache hive\\'\\'\\' is a [[data wa
+rehouse]] software"
+b'apache.org/confluence/display/hive/design|title=design - apac
+he hive - apache software'
+b'apache.org/confluence/display/hive/hiveserver|title=hiveserve
+r - apache hive - apache software'
+b'apache hive - apache software'
+b'apache hive - apache software'
+b'apache hive wiki]  {{apache}} {{facebook navbox}}  {{defaults
+ort:apache hive}} [[category:2015 software'
+b'apache software'
+b'apache software foundation|hive]] [[category:apache software'
+
+b'apache software'
+b'apache.org/ }} {{portal|free software'
+b'apache software'
+b'apache.org roller website] {{apache}}  [[category:apache soft
+ware'
+b'apache software'
+b'apache software'
+b'apache.org}}  {{java persistence api}} {{apache}}  {{defaults
+ort:apache openejb}} [[category:apache software'
+b'apache software'
+b'apache servicemix]] and [[mule (software'
+b'apache-donation-and-apache.html hornetq donation to activemq]
+</ref>  ==see also== {{portal|free software'
+b'apache}}  {{defaultsort:apache activemq}} [[category:message-
+oriented middleware]] [[category:apache software'
+b'apache) or lemp ([[nginx]]) software'
+b'apache.org | publisher = apache software'
+b'apache http server]] * [[apache software foundation]]  <!--ca
+tegories--> [[category:apache software'
+b'apache http server]] * [[apache software'
+b'apache software'
+b'apache}}  [[category:apache software'
+b"apache\\'\\' (video game)]], a 1993 shoot-em-up video game by
+ team17  == computing == * [[apache software"
+b'apache software projects ** [[apache http server]], web serve
+r software'
+b'apache software'
+b'apache openoffice writer 4.0.0 | developer              = [[a
+pache software'
+b'apache openoffice 4.1 |first=rob |last=weir |work=apache open
+office blog |publisher=apache software'
+b'apache software'
+b"apache openoffice\\'\\'\\' (\\'\\'\\'aoo\\'\\'\\') is an [[op
+en-source software"
+b'apache software'
+b'apache openoffice 4.0 review|url=http://www.techradar.com/rev
+iews/pc-mac/software'
+b'apache openoffice 4.0 review|url=http://www.techradar.com/rev
+iews/pc-mac/software/business-and-finance-software'
+b'apache software'
+b'apache incubator mailing list|publisher=apache software'
+b'apache software'
+b"apache: explaining ibm\\'s document strategy|first=douglas|la
+st=heintzman|publisher=ibm|work=ibm software"
+b'apache software'
+b'apache jira issue tracker|publisher=apache software'
+b'apache.org/foundation/entry/the_apache_software_foundation_an
+nounces35 |title=the apache software'
+b'apache.org/foundation/entry/the_apache_software'
+b'apache openoffice\\xe2\\x84\\xa2 as a top-level project : the
+ apache software'
+b'apache incubator|work=apache openoffice blog|first=rob|last=w
+eir|publisher=apache software'
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache openoffice|first=rob|last=weir|work=apache openoffice
+blog|publisher=apache software'
+b'apache openoffice 3.4 |publisher=apache software'
+b'apache openoffice 4.1 |publisher=apache software'
+b'apache openoffice project announces apache openoffice\\xe2\\x
+84\\xa2 3.4 |publisher=apache software'
+b'apache openoffice 3.4.1|first=rob|last=weir|work=apache openo
+ffice blog |publisher=apache software'
+b'apache openoffice 4.0.0 release notes|work=apache openoffice
+|publisher=apache software'
+b'apache openoffice|publisher=apache software'
+b'apache openoffice|publisher=apache software'
+b'apache software'
+b'apache_openoffice_4_11|website=the apache openoffice blog|pub
+lisher=apache software'
+b'apache.org/ooo/entry/announcing_apache_openoffice_4_12|publis
+her=apache software'
+b'apache open office blog|publisher=apache software'
+b'apache software'
+b'apache openoffice users towards libreoffice "for the sake of
+open source and free software'
+b'apache software'
+b'apache openoffice en favor de libreoffice y el software'
+b'apache openoffice disappear in favor of libreoffice and free
+software'
+b'apache openoffice development list|access-date=20 april 2017}
+}</ref> the [[apache software'
+b'apache openoffice, openoffice.org |publisher=apache software'
+
+b'apache openoffice blog|publisher=apache software'
+b'apache openoffice blog|publisher=apache software'
+b'apache openoffice wiki|publisher=apache software'
+b'apache.org/confluence/display/ooousers/aoo+4.1+release+notes|
+title=aoo 4.1 release notes|publisher=apache software'
+b'apache.org/mod_mbox/openoffice-users/201507.mbox/%3c55a5b20d.
+1030605%40apache.org%3e|publisher=apache software'
+b'apache openoffice|first=rob|last=weir|work=apache openoffice
+blog|publisher=apache software'
+b'apache openoffice blog|publisher=apache software'
+b'apache.org mailing list|publisher=apache software'
+b'apache.org/foundation/records/minutes/2015/board_minutes_2015
+_01_21.txt|title= the apache software'
+b'apache software'
+b'apache.org/ooo/entry/over_200_million_downloads_of|publisher=
+the apache software'
+b'apache}} {{foss}}  [[category:2012 software'
+b'apache}} {{foss}}  [[category:2012 software]] [[category:cros
+s-platform free software'
+b'apache license]] [[category:unix software'
+b'apache license]] [[category:unix software]] [[category:free p
+resentation software'
+b'apache software'
+b"apache.org}} }} \\'\\'\\'apache accumulo\\'\\'\\' is a comput
+er software"
+b'apache}}  [[category:apache software foundation]] [[category:
+apache software'
+b'apache}}  [[category:apache software'
+b'apache software'
+b'apache tomee | collapsible            = yes | developer
+        = [[apache software'
+b'apache-software'
+b'apache-tomee-certified-as-java-ee-6-web-profile-compatible-20
+11-10-04|title=the apache software'
+b'apache software'
+b'apache tomee|publisher=[[apache software'
+b'apache tomee java ee 6 web profile at javaone 2011]  {{apache
+}}  [[category:apache software'
+b'apache poi]] project, and former member of the [[apache softw
+are'
+b"apache chemistry''' is a project of the [[apache software"
+b'apache.org]</ref>  apache chemistry is becoming a top-level p
+roject(tlp) of the [[apache software'
+b'apache projects when they begin life in the [[apache software
+'
+b'apache chemistry - objectivecmis]  {{apache}}  [[category:apa
+che software'
+b'apache software'
+b"apache.org}} }}  \\'\\'\\'cloudstack\\'\\'\\' is an [[open so
+urce]] [[cloud computing]] software"
+b'apache software'
+b'apache software'
+b'apache_cloudstack_4_0_0 | title=apache cloudstack 4.0.0-incub
+ating released | work=apache software'
+b'apache incubator and became a [[list of apache software'
+b'apache.org/projects/cloudstack.html | title=cloudstack projec
+t incubation status | publisher=apache software'
+b'apache_cloudstack_4_0_2 | title=apache cloudstack 4.0.2 relea
+sed | work=apache software'
+b'apache wiki}}</ref>  {{div col|colwidth=10em|rules=yes|gap=2e
+m|small=yes}} *[[asg software'
+b'apache}}  [[category:cloud platforms]] [[category:free softwa
+re'
+b'apache drill | developer              = [[apache software'
+b"apache.org}} }} \\'\\'\\'apache drill\\'\\'\\' is an [[open s
+ource|open-source]] [[software"
+b'apache top-level project.<ref>{{cite web|title=the apache sof
+tware'
+b'apache.org/foundation/entry/the_apache_software'
+b'apache.org/faq/|website = drill.apache.org|accessdate = 2015-
+12-29}}</ref>  ==see also== {{portal|free software'
+b'apache drill] {{apache}}  [[category:sql]] [[category:free sy
+stem software'
+b'apache license]] version 2.0 for its aerospike client softwar
+e'
+b'apache software'
+b"apache.org}} }} '''apache giraph''' is an [[apache software"
+b'apache.org/}}  {{apache}}  [[category:apache software'
+b"apache attic''' is a project of [[apache software"
+b'apache avalon|avalon]]: apache avalon was a computer software
+'
+b'apache hivemind|hivemind]]: apache hivemind was a top level s
+oftware'
+b'apache.org/ home page]  {{apache}}  [[category:apache softwar
+e'
+b'apache stanbol - logo.png]] | developer              = [[apac
+he software'
+b"apache.org/}} }}  \\'\\'\\'apache stanbol\\'\\'\\' is an open
+ source modular software"
+b'apache stanbol project as part of the incubation program of t
+he [[apache software'
+b'apache stanbol entityhub. from that moment apache stanbol was
+ developed as an open source software'
+b'apache stanbol had demonstrated that it has an active communi
+ty and is able to produce software'
+b'apache stanbol]  {{apache}}  {{defaultsort:apache stanbol}} [
+[category:apache software'
+b'apache software'
+b"apache bloodhound''' is an [[open source]] web-based [[projec
+t management software"
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache.org/projects/bloodhound.html|publisher=apache software
+'
+b'apache software license]].{{citation needed|date=december 201
+4}}  == features == the software'
+b'apache software'
+b'apache allura]] * [[kallithea (software'
+b'apache.org}}  {{apache}} {{bug tracking systems}} {{wiki soft
+ware'
+b'apache.org}}  {{apache}} {{bug tracking systems}} {{wiki soft
+ware}}  [[category:free project management software'
+b'apache license]] [[category:free integrated development envir
+onments]] [[category:google software'
+b'apache software'
+b"apache.org}} }}  the '''apache gora''' [[open-source software
+|open-source]] [[software"
+b"apache.org}} }}  the '''apache gora''' [[open-source software
+"
+b'apache hbase]] * [[apache solr]] * [[mongodb]]  ==references=
+= {{reflist}}  {{apache}}  [[category:apache software'
+b'apache software foundation projects]]  == references == {{por
+tal|java|free software'
+b'apache software'
+b'apache}}  [[category:data mining and machine learning softwar
+e'
+b'apache}}  [[category:data mining and machine learning softwar
+e]] [[category:apache software'
+b"apache allura\\'\\'\\' is an [[open-source]] [[forge (softwar
+e"
+b"apache allura\\'\\'\\' is an [[open-source]] [[forge (softwar
+e)|forge]] software"
+b'apache allura is more than just for software |url=https://jax
+enter.com/apache-allura-more-than-just-for-software'
+b'apache allura is more than just for software'
+b'apache incubator|incubation]] with the [[apache software'
+b'apache software'
+b'apache bloodhound|bloodhound]] * [[kallithea (software'
+b'apache.org/p/allura/ allura on apache] *{{sourceforge|allura}
+}  {{bug tracking systems}} {{wiki software'
+b'apache kafka.png]]  | developer              = apache softwar
+e'
+b'apache software'
+b'apache}}  [[category:enterprise application integration]] [[c
+ategory:free software]] [[category:free software'
+b'apache}}  [[category:enterprise application integration]] [[c
+ategory:free software'
+b'apache software'
+b'apache marmotta]</ref>  in december 2013, it has been nominat
+ed as "one of the [[apache software'
+b'apache-tm-marmotta-tm.html|publisher=the apache software'
+b'apache.org/foundation/entry/the_asf_asks_have_you2|publisher=
+the apache software'
+b'apache marmotta ===  * on november 16, 2012 it is proposed to
+ the [[apache software'
+b'apache software'
+b'apache software'
+b'apache marmotta on the w3c]  {{apache}}  {{defaultsort:apache
+ marmotta}} [[category:apache software'
+b'apache struts 2|apache struts 1}} {{infobox software'
+b'apache struts logo]] | developer              = [[apache soft
+ware'
+b'apache.org/}}  {{web frameworks}} {{apache}}  [[category:apac
+he software'
+b"apachecon''' is a conference about [[open source software"
+b"apachecon''' is a conference about [[open source software|ope
+n source software"
+b"apachecon''' is a conference about [[open source software|ope
+n source software]] run by the [[apache software"
+b'apachecon north america: about]</ref>  ==see also== * [[list
+of free-software'
+b'apache software foundation]] [[category:free-software'
+b'apache software'
+b'apache software'
+b"apache.org}} }} \\'\\'\\'apache spark\\'\\'\\' is an [[open-s
+ource software"
+b'apache software'
+b'apache software'
+b'apache software'
+b'apache license|apache 2.0]]. in february 2014, spark became a
+ [[apache software'
+b'apache project]].<ref>{{cite web |url=https://blogs.apache.or
+g/foundation/entry/the_apache_software'
+b'apache software'
+b'apache.org |publisher=apache software'
+b'apache software'
+b'apache software foundation<ref>{{cite web |url=https://blogs.
+apache.org/foundation/entry/the_apache_software'
+b'apache software'
+b'apache.org |publisher=apache software'
+b'apache}} {{parallel computing}}  {{defaultsort:spark}} [[cate
+gory:apache software'
+b'apache software license, 2.0.&nbsp;... why apache software'
+b'apache software'
+b'apache samza|samba (software)}} {{refimprove|date=january 201
+7}} {{infobox software'
+b'apache samza|samba (software'
+b'apache software'
+b'apache software'
+b'apache spark]] * [[apache hadoop]] * [[druid (open-source dat
+a store)]] * [[list of apache software'
+b'apache}}  [[category:apache software foundation|samza]] [[cat
+egory:apache software'
+b'apache}}  [[category:apache software'
+b'apache license]] [[category:free software'
+b'apache software'
+b"apache.org }}  '''apache pdfbox''' is an open source pure-[[j
+ava (software"
+b'apachecon 2010 by andreas lehmk\\xc3\\xbchler, pmc chair]  {{
+apache}}  [[category:apache software'
+b'apache software'
+b"apache trafodion\\'\\'\\' is an [[open source|open-source]] p
+roject incubating at the [[apache software"
+b'apache software foundation ]]  [[category:apache software'
+b'apache software'
+b'apache software'
+b"apache.org/}} }}  \\'\\'\\'apache phoenix\\'\\'\\' is an [[op
+en-source software"
+b'apache software'
+b'apache.org/phoenix/ official apache phoenix blog]  {{apache}}
+  [[category:free software'
+b'apache software'
+b'apache hadoop]].  like beowulf, an aiyara cluster does not de
+fine a particular software'
+b"apache license|apache license 2.0]] }} {{portal|free software
+|java}} '''activejpa''' is an [[open-source software"
+b'apache license|apache license 2.0]] }} {{portal|free software
+'
+b'apache software'
+b'apache software foundation]] announced version 1.<ref>{{cite
+news |title= the apache software'
+b'apache software'
+b'apache.org/foundation/entry/the_apache_software'
+b'apache-mesos open source datacenter computing with apache mes
+os]  {{linux containers}}  [[category:apache software'
+b'apache software foundation|mesos]] [[category:cloud infrastru
+cture]] [[category:free software'
+b'apache software'
+b'apache software'
+b"apache.org/}} }} \\'\\'\\'apache flink\\'\\'\\' is an [[open
+source]] [[stream processing]] [[software"
+b'apache software'
+b'apache.org}}</ref> by the apache flink community within the [
+[apache software'
+b'apache.org}}</ref><ref>{{cite web|url=https://blogs.apache.or
+g/foundation/entry/the_apache_software'
+b'apache software'
+b'apache\\xe2\\x84\\xa2 flink\\xe2\\x84\\xa2 as a top-level pro
+ject : the apache software'
+b'apache software'
+b'apache}}  [[category:apache software foundation projects|flin
+k]] [[category:free software'
+b'apache}}  [[category:apache software'
+b'apache software foundation|flink]] [[category:software using
+the apache license]] [[category:free system software'
+b'apache software foundation|flink]] [[category:software'
+b'apache software'
+b'apache software'
+b"apache.org}} }}  \\'\\'\\'apache brooklyn\\'\\'\\' is an [[op
+en-source software"
+b'apache}}  [[category:configuration management]] [[category:ap
+ache software'
+b'apache license]] [[category:java platform]] [[category:softwa
+re'
+b'apache software'
+b"apache license]] 2.0 | website                = {{url|//ambar
+i.apache.org}} }}  '''apache ambari''' is a software"
+b'apache software foundation]].<ref>{{cite web|url=https://amba
+ri.apache.org/|title=ambari|work=[[apache software'
+b'apache software'
+b'apache software'
+b'apache-ambari/ what is apache ambari]  {{apache}}  {{defaults
+ort:apache ambari}} [[category:apache software'
+b'apache software'
+b'apache software'
+b'apache.org}}  {{defaultsort:apache openwebbeans}} [[category:
+apache software'
+b'apache poi]] *[[jxl (api)|jxl]] *[[open packaging conventions
+]] *[[office open xml software'
+b'apache systemml project.]] | author = [[shivakumar vaithyanat
+han]] | developer = [[apache software'
+b'apache incubator]] project on november 2, 2015. on may 17, 20
+17, the apache software'
+b'apache incubator project]  ==see also== *[[comparison of deep
+ learning software'
+b'apache}}  [[category:cluster computing]] [[category:data mini
+ng and machine learning software'
+b'apache software foundation|systemml]] [[category:software'
+b'apache software'
+b'apache software'
+b'apache software'
+b"apache.org/}} }}  \\'\\'\\'apache calcite\\'\\'\\' is an [[op
+en-source software"
+b'apache software'
+b'apache.org/docs/powered_by.html|title=powered by calcite|publ
+isher=apache software'
+b'apache software foundation|calcite]] [[category:software'
+b'apache software'
+b'apache software foundation|calcite]] [[category:software usin
+g the apache license]] [[category:free software'
+b'apache software'
+b"apache.org/}} }}  \\'\\'\\'apache kylin\\'\\'\\' is an [[open
+-source software"
+b'apache software foundation]].<ref>apache software'
+b'apache software'
+b'apache.org/foundation/entry/the_apache_software_foundation_an
+nounces85 "the apache software'
+b'apache.org/foundation/entry/the_apache_software'
+b'apache}}  {{business-software-stub}} {{database-software-stub
+}}  [[category:free software'
+b'apache}}  {{business-software-stub}} {{database-software'
+b'apache}}  {{business-software'
+b'apache software'
+b'apache.org/proper/commons-logging/}}  {{apache}}  [[category:
+apache software'
+b'apache-tika.png|130px|tika logo]] | screenshot =  | caption =
+  | developer = [[apache software'
+b'apache software'
+b'apache.org/1.12/formats.html| title= the apache software'
+b'apache}}  [[category:apache software foundation|tika]] [[cate
+gory:java platform]] [[category:free software'
+b'apache}}  [[category:apache software'
+b'apache software'
+b"apache.org/fortress/ }} \\'\\'\\'apache fortress\\'\\'\\' is
+an [[open source]] project of the [[apache software"
+b'apache.org/mod_mbox/directory-dev/201409.mbox/%3c54181fd6.106
+0200%40att.net%3e  |publisher=apache software'
+b'apache}}  [[category:apache software'
+b'apache software'
+b'apache.org|title=apache apex web page}}</ref>  apache apex wa
+s named a top-level project by the apache software'
+b'apache.org/foundation/entry/the_apache_software_foundation_an
+nounces90|title=the apache software'
+b'apache.org/foundation/entry/the_apache_software'
+b'apache\\xc2\\xae apex\\xe2\\x84\\xa2 as a top-level project|w
+ork=the apache software'
+b'apache apex.<ref>{{cite web|url=http://www.informationweek.co
+m/big-data/software'
+b'apache software'
+b'apache software foundation projects|apex]] [[category:free so
+ftware'
+b'apache software'
+b'apache software foundation]] [[category:software using the ap
+ache license]] [[category:free system software'
+b'apache software foundation]] [[category:software'
+b'apache software'
+b'apache poi]] *[[office open xml software'
+b'apache software'
+b"apache yetus''' is a collection of libraries and tools that e
+nable contribution and release processes for software"
+b'apache}}  [[category:java (programming language) libraries]]
+[[category:apache software'
+b'apache software'
+b'apache software'
+b'apache license 2.0]], a permissive license that is conducive
+to commercial adoption of [[open-source software'
+b'apache license]] [[category:cross-platform mobile software'
+b'apache license]] [[category:cross-platform mobile software]]
+[[category:cross-platform free software'
+b"apache.org}} }}  '''apache nifi''' is a software project from
+ the [[apache software"
+b"apache.org}} }}  '''apache nifi''' is a software"
+b'apache software'
+b'apache software'
+b'apache.org|title=apache serf|website=apache software'
+b'apache.org archive.apache.org].  ==references== {{reflist}}
+[[category:apache software'
+b'apache license]]   {{free-software'
+b'apache software'
+b"apache.org}} }} \\'\\'\\'apache beam\\'\\'\\' is an [[open-so
+urce software"
+b'apache software'
+b'apache software foundation projects]]  ==references== {{refli
+st|30em}}  {{apache}}  [[category:apache software'
+b'apache software'
+b'apache software'
+b'apache singa|logo=apache singa logo.png|caption=singa logo|de
+veloper=[[apache software'
+b'apache singa software'
+b'apache singa software stack|center|frameless|400x400px]]  ==
+see also == * [[list of apache software'
+b'apache.org/en/index.html}}  {{apache}} {{deep_learning_softwa
+re}}  [[category:apache software'
+b'apache.org/en/index.html}}  {{apache}} {{deep_learning_softwa
+re'
+b'apache parquet 1.0 was released in july 2013. from april 27,
+2015 apache parquet is a top-level apache software'
+b'apache.org/foundation/entry/the_apache_software'
+b'apache hive]], [[apache drill]], [[cloudera impala]], [[apach
+e crunch]], [[apache pig]], [[cascading (software'
+b'apache pig]] are working it.  ==see also== {{portal|free soft
+ware'
+b'apache}}  [[category:2015 software'
+b'apache}}  [[category:2015 software]] [[category:apache softwa
+re'
+b'apache ldap api | developer = [[apache software'
+b"apache.org/api/}} }} '''apache ldap api''' is an [[open sourc
+e]] project of the [[apache software"
+b'apache.org/api/ apache directory ldap api project page] {{apa
+che}}  [[category:apache software'
+b'apache celix | logo = apache celix.png | developer = apache s
+oftware'
+b'apache software foundation]]. the project aims to provide a f
+ramework to develop (dynamic) modular software'
+b'apache software'
+b'apache.org/ apache celix website] * [https://github.com/apach
+e/celix github mirror]  [[category:apache software'
+b'apache software'
+b'apache kudu is a top level project (tlp) under the umbrella o
+f the apache software'
+b'apache.org/}}  {{apache}}  {{defaultsort:apache kudu}} [[cate
+gory:2016 software'
+b'apache.org/}}  {{apache}}  {{defaultsort:apache kudu}} [[cate
+gory:2016 software]] [[category:apache software'
+b'apache license]] | website                = {{url|http://www.
+aika-software'
+
+real    0m31.272s
+user    0m0.030s
+sys     0m0.030s

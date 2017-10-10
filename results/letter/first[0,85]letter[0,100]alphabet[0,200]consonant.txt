@@ -1,0 +1,15 @@
+3
+b'first letter of the [[phoenician alphabet]],<ref name="britan
+nica">{{harvnb|hoiberg|2010|p=1}}</ref> which consisted entirel
+y of [[consonant'
+b"first letters in the [[greek alphabet]], \\'\\'alpha\\'\\' an
+d \\'\\'beta\\'\\'. as daniels used the word, an abugida is in
+contrast with a [[syllabary]], where letters with shared conson
+ant"
+b'first letter of many semitic alphabets **[[dagger alif]] supe
+rscript alif in arabic alphabet * [[thaana|alif]], the eighth c
+onsonant'
+
+real    0m22.889s
+user    0m0.000s
+sys     0m0.077s
